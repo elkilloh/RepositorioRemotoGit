@@ -3,7 +3,9 @@ package paquete1;
 public class Principal {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println("Estamos realizando cambios");
+		
+		System.out.println("Escribimos algo para comprobar los cambios");
 
 	}
 
